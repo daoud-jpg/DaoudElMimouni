@@ -1,7 +1,7 @@
 <header>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
-# DaoudElMimouni
+<h1>Daoud El Mimouni</h1>
 I'm a software development student at Odisee with experience in ASP.NET and Kotlin Jetpack Compose for mobile development. I also have knowledge of HTML, CSS, and JavaScript for frontend development.
 I enjoy building applications, solving problems, and learning new technologies. I'm passionate about writing clean, efficient code and continuously improving my skills. I have worked on projects that involve both web and mobile development, applying best practices and modern frameworks.
 <h2>🧰Languages and tools</h2>
